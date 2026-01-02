@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sorry Aman 🌼</title>
+</head>
+
+<body style="
+    text-align:center;
+    font-family:Arial, sans-serif;
+    background:linear-gradient(#fff1f5,#ffffff);
+    padding:25px;
+">
+
+    <h1 style="color:#ff5c8a;">
+        🥺🌸 Sorry Aman 🌸🥺
+    </h1>
+
+    <p style="font-size:18px; color:#333;">
+        Mujhse galti ho gayi 😔 <br>
+        Mera intention bilkul bhi bura nahi tha 💙 <br><br>
+        Tu ek achha insaan hai 🌼 <br>
+        Aur main nahi chahta/chahti ki tu dukhi ho 🫶
+    </p>
+
+    <p style="font-size:32px;">
+        🧸💐 🥺 💙 🌸 🐻 💖
+    </p>
+
+    <p style="font-size:17px; color:#555;">
+        Agar ho sake toh thodi si smile de de 😊  
+    </p>
+
+    <!-- Video Button -->
+    <a href="https://www.youtube.com/watch?v=QxkFf1rJ8hI" target="_blank">
+        <button style="
+            padding:15px 30px;
+            font-size:17px;
+            background:#ff8fab;
+            color:white;
+            border:none;
+            border-radius:30px;
+            margin:10px;
+            box-shadow:0 4px 8px rgba(0,0,0,0.2);
+        ">
+            🎥 Ye Video Dekh Lo 🌸
+        </button>
+    </a>
+
+    <br><br>
+
+    <!-- WhatsApp Button -->
+    <a href="https://wa.me/?text=🌸🥺%20Sorry%20Aman%20🥺🌸%0AMujhse%20galti%20ho%20gayi%20😔%0AMera%20intention%20bura%20nahi%20tha%20💙%0AAgar%20ho%20sake%20toh%20maaf%20kar%20dena%20🫶%0A🌼🧸%0Ahttps://www.youtube.com/watch?v=QxkFf1rJ8hI" target="_blank">
+        <button style="
+            padding:15px 30px;
+            font-size:17px;
+            background:#25D366;
+            color:white;
+            border:none;
+            border-radius:30px;
+            box-shadow:0 4px 8px rgba(0,0,0,0.2);
+        ">
+            📲 Aman Ko Bhejo 💌
+        </button>
+    </a>
+
+    <p style="margin-top:30px; font-size:14px; color:#777;">
+        🌈 Sab theek ho jayega 🌈
+    </p>
+
+</body>
+</html>
